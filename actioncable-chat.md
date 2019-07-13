@@ -25,6 +25,12 @@ theme
 - twitter, github など: @znz
 - 株式会社Ruby開発 www.ruby-dev.jp
 
+# Ruby関西関連
+
+- ハッシュタグ : `#rubykansai`
+- Slack あります : `rubykansai.slack.com`
+- ライブ配信 : `https://rubykansai.xn--53ha.ml`
+
 # 目的
 
 - Ruby 関西中継が止まっていた
@@ -32,6 +38,10 @@ theme
 - 外部サーバーに保存せずにユーザー登録などなく視聴可能なライブ配信のみしたい
 - できればチャットもあると良いかも
   → Ruby 勉強会なので Rails で
+
+# スライド
+
+- https://slide.rabbit-shocker.org/ から
 
 # ライブ配信
 
