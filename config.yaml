@@ -3,11 +3,12 @@ id: rubykansai87-chat
 base_name: actioncable-chat
 tags:
 - ruby
+- rails
 presentation_date: 2019/07/13
-version: 2019.07.13
+version: 2019.07.13.1
 licenses: []
-slideshare_id:
-speaker_deck_id:
+slideshare_id: action-cable-155279408
+speaker_deck_id: action-cabledejian-yi-tiyatutowozuo-tutemita
 ustream_id:
 vimeo_id:
 youtube_id:
